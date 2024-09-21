@@ -1,11 +1,12 @@
 import Header from "./_components/Header";
+import Hero from "./_components/Hero";
 
 export default function Home() {
   return (
     
     <div>
       <Header />
-      <h1 className="text-4xl text-center">Welcome to Next.js!</h1>
+      <Hero />
     </div>
   )
 }
