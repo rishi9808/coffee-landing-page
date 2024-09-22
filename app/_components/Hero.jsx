@@ -19,9 +19,8 @@ const Hero = () => {
               className="relative size-16 lg:size-20 top-[90px] lg:top-[150px] right-[70px] lg:right-[100px]"
             />
           </h1>
-          <p className="my-3">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            Reiciendis, odit?
+          <p className="my-4 w-[20rem] text-muted-foreground">
+            The best coffee experience you'll ever have. We guarantee it!
           </p>
 
           <div className="flex gap-x-4 items-center py-6">
