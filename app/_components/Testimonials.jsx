@@ -73,7 +73,7 @@ const Testimonials = () => {
     <div>
       <div className="text-center mt-40">
       <h1 className="text-4xl lg:text-5xl font-bold ">
-          Testmonials
+          Client Testmonials
         </h1>
         <p className="text-muted-foreground text-lg mt-2">
             See what our customers are saying about us
